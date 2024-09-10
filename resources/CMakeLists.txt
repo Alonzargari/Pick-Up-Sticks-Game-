@@ -1,0 +1,7 @@
+﻿#configure_file ("Wall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("exitButton.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("startButton.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("hintButton.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("saveButton.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("loadGameButton.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("FORTE.TTF" ${CMAKE_BINARY_DIR} COPYONLY)
